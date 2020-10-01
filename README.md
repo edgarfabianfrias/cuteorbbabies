@@ -1,3 +1,3 @@
-# sound game part 1 : moving parts and looping sounds
+Cute Orb Babies
 
-finished sketch: https://socalledsound.github.io/sound-game-1-starter/
+finished sketch: https://edgarfabianfrias.github.io/cuteorbbabies/.
